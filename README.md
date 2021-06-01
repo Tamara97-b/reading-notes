@@ -1,7 +1,7 @@
 # reading-notes
 
- |Files| Link |    
------------------------
-|GIT    |  httpsgithub.comTamara97-breading-notesblobmainGIT | 
-| MARKDOWN  | httpsgithub.comTamara97-breading-notesblobmainMARKDOWN |   
-| GROWTH MINDSET|  httpsgithub.comTamara97-breading-notesblobmainGROWTH%20MINDSET | 
+| Files    |      Link    | 
+|----------|:-------------:| 
+|   GIT    |  https://github.com/Tamara97-b/reading-notes/blob/main/GIT | 
+| MARKDOWN |  https://github.com/Tamara97-b/reading-notes/blob/main/MARKDOWN   | 
+| GROWTH MINDSET | https://github.com/Tamara97-b/reading-notes/blob/main/GROWTH%20MINDSET |
