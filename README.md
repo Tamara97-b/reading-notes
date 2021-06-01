@@ -1,6 +1,6 @@
 # reading-notes
 
-| Files    |      Linke    | 
+| Files    |      Link    | 
 |----------|:-------------:|
 |   GIT    |  https://github.com/Tamara97-b/reading-notes/blob/main/GIT |
 | MARKDOWN |  https://github.com/Tamara97-b/reading-notes/blob/main/MARKDOWN   |
