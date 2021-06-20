@@ -187,5 +187,5 @@
 ### child elements that are siblings of each other.
 ### In older browsers, implementation of the DOM is
 ### inconsistent (and is a popular reason for using jQuery).
-### cBrowsers offer tools for viewing the DOM tree .
+### cBrowsers offer tools for viewing the DOM tree ..
 ••
