@@ -12,5 +12,5 @@
 | Files    |      Link    | 
 |----------|:-------------:| 
 |  read1  |[introduction html &js](https://tamara97-b.github.io/reading-notes/read1htmljs)  | 
-|read2  |  [read2](read2.md)   | 
+|read2  |  [read2](read2)   | 
 |  |  |
