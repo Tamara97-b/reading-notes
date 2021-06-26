@@ -63,7 +63,7 @@ Arrays and objects can be used to create complex data
 sets (and both can contain the other).
 
 # Understanding The Problem Domain #
- 
+
 Programming is easy if you understand the problem domain
 A long time ago, I worked for Hewlett Packard writing software for multi-function printers.
 
@@ -85,5 +85,5 @@ Perhaps you have had a similar experience, not necessarily working on a waterfal
 I’ve spent days trying to implement a feature only to finally go back and talk to a product owner and hash out completely how something should work and why it should work in a particular way, only to go back to my desk and crank out the code in a matter of hours.
 
 
-The more and more I write code, the more I learn that understanding the problem is the most critical piece to the equation. It is very difficult to solve a problem before you know the question.  It’s like buzzing in on Jeopardy before you hear the clue and shouting out random questions.
+The more and more I write code, the more I learn that understanding the problem is the most critical piece to the equation. It is very difficult to solve a problem before you know the question.  It’s like buzzing in on Jeopardy before you hear the clue and shouting out random questions...
 
