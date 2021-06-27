@@ -17,3 +17,4 @@
 |read4  | [read4](https://tamara97-b.github.io/reading-notes/read4) |
 |read5 |[read5](https://tamara97-b.github.io/reading-notes/read5) |
 |read6|[read6](https://tamara97-b.github.io/reading-notes/read6) |
+|read7|[read7](https://tamara97-b.github.io/reading-notes/read7) |
