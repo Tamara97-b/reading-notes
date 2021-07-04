@@ -22,3 +22,4 @@
 |read9|[read9](https://tamara97-b.github.io/reading-notes/read9)|
 |read10|[read10](https://tamara97-b.github.io/reading-notes/read10)
 |read11|[read11](https://tamara97-b.github.io/reading-notes/read11)|
+|read12|[read12](https://tamara97-b.github.io/reading-notes/read12)|
